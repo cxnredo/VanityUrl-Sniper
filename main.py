@@ -2,10 +2,10 @@ import os
 import aiohttp
 import asyncio
 
-token = "" #token
-hook = "" #webhook link
+token = "MTM4MDM0MDE2ODM5NzAyOTQ3OA.GXFEiE.AcTro7HPaWYITYVFPAPBWYDjjqLg5u-USyrveo" #token
+hook = "https://discord.com/api/webhooks/1380340642433073183/J1uaOG_LzxM99m4iK6JiyvQbUyfx8kBiRSBxu2NS9aFziO1GvlBY3GMzLQ_8umqfmMC9" #webhook link
 guild = "9191373839292920"
-vanity_list = ["xpop"]
+vanity_list = ["botancxn"]
 delay = 0.1 
 claimed = False
 
